@@ -6,3 +6,7 @@ Liebre = 5
 
 if caballo > Liebre:
     print("El caballo es más rápido que la liebre.")
+
+    castor = 8
+    if castor < caballo:
+        print("El castor es más lento que el caballo.") 

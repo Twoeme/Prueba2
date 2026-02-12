@@ -1,0 +1,41 @@
+1. Frameworks mentales
+
+*Relacion hay entre Variables, Variable -Relacion - Explicacion  
+
+Donde hay variacion
+Cuales variables son
+Porque cambian
+
+ *5 Ejes Analiticos
+
+ Dispersion
+ Promedio
+ Forma  
+ Evolucion temporal
+ Relacion con otras variables
+*Matriz Causa Efecto
+
+Porque de la Relacion
+Cual seria la consecuencia
+Cual seria el efecto
+
+2. Herramientas estadísticas exploratorias
+
+Media
+Mediana
+Porcentajes- Percentiles
+
+3.Herramientas visuales
+
+barras
+Tortas
+Historigramas
+Bigotes
+Diagramas de dispersion
+
+4. Técnicas estructuradas de profundización
+A. Que variables interpreto
+B. Descomposicion del sistema - Tiempo, segmento, grupos
+C. Stress test Analiticos
+
+5. Metapreguntas nivel experto
